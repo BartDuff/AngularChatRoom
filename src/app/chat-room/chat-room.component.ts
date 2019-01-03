@@ -12,6 +12,7 @@ import { FormsModule } from '@angular/forms';
 export class ChatRoomComponent implements OnInit {
   user: User;
   message: Message;
+  messages: Message[];
 
   constructor(private chatService: ChatService) { }
 
