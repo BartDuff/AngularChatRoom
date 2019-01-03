@@ -17,10 +17,4 @@ export class ChatService {
   public sendMessage(message: Message) {
     this.socket.emit('new_message', message);
   }
-
-  public getMessages = () => {
-    return Rx.Observable.create((observer), () => {
-
-    })
-  }
 }
