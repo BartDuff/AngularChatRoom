@@ -26,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 # AngularChatRoom
+
+Home Screen:
+
+![image](https://user-images.githubusercontent.com/8402383/50639406-acfcbe00-0f61-11e9-8fdc-1f286a68f562.png)
