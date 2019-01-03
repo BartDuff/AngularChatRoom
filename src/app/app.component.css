@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    padding-left: 300px;
+    color: wheat;
+    background: teal;
+    text-align: center;
+}
+
+app-user-list {
+    color: wheat;
+}
+
